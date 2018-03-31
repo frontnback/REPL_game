@@ -1,34 +1,4 @@
-#
-# yes = 1
-# no = 0
-#
-# if x == 0
-#   puts "Well then....uhh you got any change you can spare?"
-# end
-#
-# else x == 1
-#   puts "Step right up and pick a number squirt!"
-# end
 
-# puts "yes or no?"
-
-# arr = [yes, no]
-# i = gets.chomp.to_i
-# gets.chomp.to_i
-
-# if no
-#   puts
-
-# gets.chomp.to_char = y,n /
-# gets = yes or no
-# (Y/N) || (y/n)
-# if num = [4,5,6,7,8,9, a-z,A-Z then Try Again]
-
-# if talk_vendor?
-#   puts "Welcome to Street Shells!"
-# else go to to wyncode
-
-  # user_anwser = gets.chomp.to.i
 
   #      ",--.     .--."
   #     /    \   /    \
@@ -47,7 +17,7 @@
   #   \  /   ~~~~~   \  /
   #    -               -
 
-puts " \n\n\n\n\n"
+puts "\n\n\n\n\n"
 puts "| | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | |  <*> <*> <*>  Welcome to Street Shells!  <*> <*> <*>  | | | | | | | | | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | |\n\n\n\n"
 
 puts "         As your walking to Wyncode on 5th Ave \n\n"
@@ -83,3 +53,37 @@ if arr2.sample == o
 else
   puts "   You Lose... thanks for playing....Now beat it KID ! ! \n\n\n\n"
 end
+
+
+
+
+# yes = 1
+# no = 0
+#
+# if x == 0
+#   puts "Well then....uhh you got any change you can spare?"
+# end
+#
+# else x == 1
+#   puts "Step right up and pick a number squirt!"
+# end
+
+# puts "yes or no?"
+
+# arr = [yes, no]
+# i = gets.chomp.to_i
+# gets.chomp.to_i
+
+# if no
+#   puts
+
+# gets.chomp.to_char = y,n /
+# gets = yes or no
+# (Y/N) || (y/n)
+# if num = [4,5,6,7,8,9, a-z,A-Z then Try Again]
+
+# if talk_vendor?
+#   puts "Welcome to Street Shells!"
+# else go to to wyncode
+
+  # user_anwser = gets.chomp.to.i

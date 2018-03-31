@@ -1,18 +1,3 @@
-# def game
-#   num = rand 25
-#   puts "Guess a number between 0 and 21"
-#
-#   loop do
-#     user_anwser = gets.chomp.to.i
-#
-#   end
-# end # => :game
-#
-# gets  # => nil
-#
-# "10/n".chomp.to_pi # => 10
-
-
 
 
 def game
@@ -31,3 +16,18 @@ def game
     end
   end
 end
+
+
+# def game
+#   num = rand 25
+#   puts "Guess a number between 0 and 21"
+#
+#   loop do
+#     user_anwser = gets.chomp.to.i
+#
+#   end
+# end # => :game
+#
+# gets  # => nil
+#
+# "10/n".chomp.to_pi # => 10
